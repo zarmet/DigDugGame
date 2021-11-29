@@ -1,0 +1,1377 @@
+fileFormatVersion: 2
+guid: 0d90ee9ae9f7617428372d35a640c981
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9095654797537720548
+    second: digduglvl1_0
+  - first:
+      213: 5211909543235297942
+    second: digduglvl1_1
+  - first:
+      213: -3980092899627908862
+    second: digduglvl1_2
+  - first:
+      213: -6900852047828465257
+    second: digduglvl1_3
+  - first:
+      213: 6253244595009313536
+    second: digduglvl1_4
+  - first:
+      213: 3499190913287376709
+    second: digduglvl1_5
+  - first:
+      213: -3196764364452704375
+    second: digduglvl1_6
+  - first:
+      213: 3280284098247902944
+    second: digduglvl1_7
+  - first:
+      213: -1152941682229011414
+    second: digduglvl1_8
+  - first:
+      213: -7655728892960898415
+    second: digduglvl1_9
+  - first:
+      213: 2762457899099196415
+    second: digduglvl1_10
+  - first:
+      213: 4471209917181530043
+    second: digduglvl1_11
+  - first:
+      213: 2442339802207639602
+    second: digduglvl1_12
+  - first:
+      213: 3278908900819158328
+    second: digduglvl1_13
+  - first:
+      213: 3528963090178236936
+    second: digduglvl1_14
+  - first:
+      213: -5282020882245813830
+    second: digduglvl1_15
+  - first:
+      213: -3968126084879390708
+    second: digduglvl1_16
+  - first:
+      213: 2218888008599787981
+    second: digduglvl1_17
+  - first:
+      213: -8236507153548703599
+    second: digduglvl1_18
+  - first:
+      213: 3927128966054418769
+    second: digduglvl1_19
+  - first:
+      213: 6067788470097526397
+    second: digduglvl1_20
+  - first:
+      213: 8942340883822700213
+    second: digduglvl1_21
+  - first:
+      213: -1149447068803356838
+    second: digduglvl1_22
+  - first:
+      213: 2299994009957052641
+    second: digduglvl1_23
+  - first:
+      213: 4556862459993778703
+    second: digduglvl1_24
+  - first:
+      213: -8981132601692478642
+    second: digduglvl1_25
+  - first:
+      213: 2208952057241649792
+    second: digduglvl1_26
+  - first:
+      213: -4438961760517338294
+    second: digduglvl1_27
+  - first:
+      213: -4386508483723118299
+    second: digduglvl1_28
+  - first:
+      213: -8057313315923425452
+    second: digduglvl1_29
+  - first:
+      213: 6218708010777930376
+    second: digduglvl1_30
+  - first:
+      213: -7736189578981721504
+    second: digduglvl1_31
+  - first:
+      213: 2206046891359713629
+    second: digduglvl1_32
+  - first:
+      213: 1721302357340878459
+    second: digduglvl1_33
+  - first:
+      213: 4471964937750402037
+    second: digduglvl1_34
+  - first:
+      213: -8767993661848051147
+    second: digduglvl1_35
+  - first:
+      213: -9059017376771943251
+    second: digduglvl1_36
+  - first:
+      213: -6703220992031985585
+    second: digduglvl1_37
+  - first:
+      213: -7808299944985575359
+    second: digduglvl1_38
+  - first:
+      213: 3478253184611487701
+    second: digduglvl1_39
+  - first:
+      213: -3789387097792312363
+    second: digduglvl1_40
+  - first:
+      213: -2293361923919715909
+    second: digduglvl1_41
+  - first:
+      213: -8496804057922780266
+    second: digduglvl1_42
+  - first:
+      213: -2979734844786808191
+    second: digduglvl1_43
+  - first:
+      213: -6053670114400542615
+    second: digduglvl1_44
+  - first:
+      213: -6170069627788418562
+    second: digduglvl1_45
+  - first:
+      213: -6064086498432436156
+    second: digduglvl1_46
+  - first:
+      213: 6922234068335046592
+    second: digduglvl1_47
+  - first:
+      213: 5373157809856244843
+    second: digduglvl1_48
+  - first:
+      213: 5789402530215186061
+    second: digduglvl1_49
+  - first:
+      213: 7793963426172784128
+    second: digduglvl1_50
+  - first:
+      213: 3786586351240822823
+    second: digduglvl1_51
+  - first:
+      213: 4058634475522794590
+    second: digduglvl1_52
+  - first:
+      213: 8044684532902934472
+    second: digduglvl1_53
+  - first:
+      213: -1737315663493982056
+    second: digduglvl1_54
+  - first:
+      213: -4325097715271816835
+    second: digduglvl1_55
+  - first:
+      213: -4967843358486976015
+    second: digduglvl1_56
+  - first:
+      213: -5427826089655307795
+    second: digduglvl1_57
+  - first:
+      213: -5121137982722910437
+    second: digduglvl1_58
+  - first:
+      213: -7019894958112633858
+    second: digduglvl1_59
+  - first:
+      213: -3378821193666677289
+    second: digduglvl1_60
+  - first:
+      213: 1753072302976242621
+    second: digduglvl1_61
+  - first:
+      213: -2024870610075871824
+    second: digduglvl1_62
+  - first:
+      213: -2481100625333865916
+    second: digduglvl1_63
+  - first:
+      213: -8680755920679925788
+    second: digduglvl1_64
+  - first:
+      213: -2818583995042202633
+    second: digduglvl1_65
+  - first:
+      213: 8047453551203987934
+    second: digduglvl1_66
+  - first:
+      213: 5718146108161345278
+    second: digduglvl1_67
+  - first:
+      213: -546094785337311550
+    second: digduglvl1_68
+  - first:
+      213: -6469226454681858785
+    second: digduglvl1_69
+  - first:
+      213: 641438713100960917
+    second: digduglvl1_70
+  - first:
+      213: 6076590445865391641
+    second: digduglvl1_71
+  - first:
+      213: 7933655131622005240
+    second: digduglvl1_72
+  - first:
+      213: 1068070136327273299
+    second: digduglvl1_73
+  - first:
+      213: -5021155074586233603
+    second: digduglvl1_74
+  - first:
+      213: 2461046264920131555
+    second: digduglvl1_75
+  - first:
+      213: -730684294347971283
+    second: digduglvl1_76
+  - first:
+      213: 7049152068393010562
+    second: digduglvl1_77
+  - first:
+      213: -4847614203985721314
+    second: digduglvl1_78
+  - first:
+      213: -1811655881845135393
+    second: digduglvl1_79
+  - first:
+      213: -7415630449727485616
+    second: digduglvl1_80
+  - first:
+      213: 4551674830049336816
+    second: digduglvl1_81
+  - first:
+      213: 3620525234255619220
+    second: digduglvl1_82
+  - first:
+      213: -9055881004685935538
+    second: digduglvl1_83
+  - first:
+      213: 1639183326492861960
+    second: digduglvl1_84
+  - first:
+      213: -5611590774298933597
+    second: digduglvl1_85
+  - first:
+      213: -3874385663470087109
+    second: digduglvl1_86
+  - first:
+      213: 6957990788543691020
+    second: digduglvl1_87
+  - first:
+      213: -5264109834194308577
+    second: digduglvl1_88
+  - first:
+      213: 8333343984034577014
+    second: digduglvl1_89
+  - first:
+      213: 4051643885220850420
+    second: digduglvl1_90
+  - first:
+      213: -7811726926602840842
+    second: digduglvl1_91
+  - first:
+      213: 8831204685022543261
+    second: digduglvl1_92
+  - first:
+      213: 8956780473545956853
+    second: digduglvl1_93
+  - first:
+      213: 5238966366827220767
+    second: digduglvl1_94
+  - first:
+      213: 3351666478851177178
+    second: digduglvl1_95
+  - first:
+      213: -1044588387623817998
+    second: digduglvl1_96
+  - first:
+      213: 7260877535533467961
+    second: digduglvl1_97
+  - first:
+      213: 4841920436512527415
+    second: digduglvl1_98
+  - first:
+      213: -6788117374553405324
+    second: digduglvl1_99
+  - first:
+      213: -4716344645350094059
+    second: digduglvl1_100
+  - first:
+      213: -7402522387060281588
+    second: digduglvl1_101
+  - first:
+      213: 2951464988764274075
+    second: digduglvl1_102
+  - first:
+      213: 7565461238626717977
+    second: digduglvl1_103
+  - first:
+      213: 1673828811380801810
+    second: digduglvl1_104
+  - first:
+      213: -6573581152163862128
+    second: digduglvl1_105
+  - first:
+      213: -4665557992291858571
+    second: digduglvl1_106
+  - first:
+      213: -812960647675103800
+    second: digduglvl1_107
+  - first:
+      213: 3307045736548214970
+    second: digduglvl1_108
+  - first:
+      213: -9052029160613117652
+    second: digduglvl1_109
+  - first:
+      213: 8512994160171289293
+    second: digduglvl1_110
+  - first:
+      213: -7148513217814092730
+    second: digduglvl1_111
+  - first:
+      213: 7659139820936571521
+    second: digduglvl1_112
+  - first:
+      213: -79085763858598415
+    second: digduglvl1_113
+  - first:
+      213: 2273313798899430382
+    second: digduglvl1_114
+  - first:
+      213: -3108462365312834735
+    second: digduglvl1_115
+  - first:
+      213: 3660116091562132505
+    second: digduglvl1_116
+  - first:
+      213: 3114998317945438964
+    second: digduglvl1_117
+  - first:
+      213: 6221055440415525491
+    second: digduglvl1_118
+  - first:
+      213: 6442859384033073738
+    second: digduglvl1_119
+  - first:
+      213: 7618442299823933357
+    second: digduglvl1_120
+  - first:
+      213: -5274210875487259513
+    second: digduglvl1_121
+  - first:
+      213: -1212187450825565788
+    second: digduglvl1_122
+  - first:
+      213: 2174951486135640573
+    second: digduglvl1_123
+  - first:
+      213: -5584887029047576484
+    second: digduglvl1_124
+  - first:
+      213: 2018116310242403509
+    second: digduglvl1_125
+  - first:
+      213: -5727734710808052688
+    second: digduglvl1_126
+  - first:
+      213: -7959898590645533293
+    second: digduglvl1_127
+  - first:
+      213: -5659635257631062204
+    second: digduglvl1_128
+  - first:
+      213: -386643063066367662
+    second: digduglvl1_129
+  - first:
+      213: 4422328138854704239
+    second: digduglvl1_130
+  - first:
+      213: -1963523103181679369
+    second: digduglvl1_131
+  - first:
+      213: 2523802134820617122
+    second: digduglvl1_132
+  - first:
+      213: -524193119322427271
+    second: digduglvl1_133
+  - first:
+      213: 4367364202111931948
+    second: digduglvl1_134
+  - first:
+      213: 3444770679063423711
+    second: digduglvl1_135
+  - first:
+      213: 606212077367635509
+    second: digduglvl1_136
+  - first:
+      213: 3265130676545349553
+    second: digduglvl1_137
+  - first:
+      213: 1632163562510359620
+    second: digduglvl1_138
+  - first:
+      213: 6121785223348160194
+    second: digduglvl1_139
+  - first:
+      213: -2711304998941682544
+    second: digduglvl1_140
+  - first:
+      213: 4797012520134034893
+    second: digduglvl1_141
+  - first:
+      213: -6669037044634719228
+    second: digduglvl1_142
+  - first:
+      213: 209705790914153186
+    second: digduglvl1_143
+  - first:
+      213: 6592641315207848682
+    second: digduglvl1_144
+  - first:
+      213: 9109336118226673831
+    second: digduglvl1_145
+  - first:
+      213: 8112597073323825919
+    second: digduglvl1_146
+  - first:
+      213: -7607326785025426607
+    second: digduglvl1_147
+  - first:
+      213: -6219641630172785117
+    second: digduglvl1_148
+  - first:
+      213: 8921076796894477244
+    second: digduglvl1_149
+  - first:
+      213: 8950197873909960582
+    second: digduglvl1_150
+  - first:
+      213: -713943376368911840
+    second: digduglvl1_151
+  - first:
+      213: -6294788651635729229
+    second: digduglvl1_152
+  - first:
+      213: 7600569672080609397
+    second: digduglvl1_153
+  - first:
+      213: 8830195502896626788
+    second: digduglvl1_154
+  - first:
+      213: 5865175054156810281
+    second: digduglvl1_155
+  - first:
+      213: 4324960687973529615
+    second: digduglvl1_156
+  - first:
+      213: -2181659120132910903
+    second: digduglvl1_157
+  - first:
+      213: -4809701821153438829
+    second: digduglvl1_158
+  - first:
+      213: -1560487396201206876
+    second: digduglvl1_159
+  - first:
+      213: -7425484007324822183
+    second: digduglvl1_160
+  - first:
+      213: -8133949426975917104
+    second: digduglvl1_161
+  - first:
+      213: 1021420659285059130
+    second: digduglvl1_162
+  - first:
+      213: -57720120103749220
+    second: digduglvl1_163
+  - first:
+      213: -457868542575608372
+    second: digduglvl1_164
+  - first:
+      213: 5134771617130423653
+    second: digduglvl1_165
+  - first:
+      213: -2026336340756346475
+    second: digduglvl1_166
+  - first:
+      213: -6189231047670909112
+    second: digduglvl1_167
+  - first:
+      213: -1687877190537846122
+    second: digduglvl1_168
+  - first:
+      213: -3075626018807965641
+    second: digduglvl1_169
+  - first:
+      213: 664388101364356398
+    second: digduglvl1_170
+  - first:
+      213: 4564517034891631940
+    second: digduglvl1_171
+  - first:
+      213: 3563006098168746733
+    second: digduglvl1_172
+  - first:
+      213: -1664474917611195991
+    second: digduglvl1_173
+  - first:
+      213: -8452270385427357565
+    second: digduglvl1_174
+  - first:
+      213: 102172306634732713
+    second: digduglvl1_175
+  - first:
+      213: -5843991624099459012
+    second: digduglvl1_176
+  - first:
+      213: -4941151005941581036
+    second: digduglvl1_177
+  - first:
+      213: 2980131176456937373
+    second: digduglvl1_178
+  - first:
+      213: 1728292146713522248
+    second: digduglvl1_179
+  - first:
+      213: 5423466116691780975
+    second: digduglvl1_180
+  - first:
+      213: 460688508870468080
+    second: digduglvl1_181
+  - first:
+      213: 8841209031182715523
+    second: digduglvl1_182
+  - first:
+      213: 7118923332537607702
+    second: digduglvl1_183
+  - first:
+      213: -5018892953553982573
+    second: digduglvl1_184
+  - first:
+      213: -6879117807806900035
+    second: digduglvl1_185
+  - first:
+      213: 4863464979162531660
+    second: digduglvl1_186
+  - first:
+      213: 9191455860534475379
+    second: digduglvl1_187
+  - first:
+      213: -8587665340084191096
+    second: digduglvl1_188
+  - first:
+      213: -4701597248951800699
+    second: digduglvl1_189
+  - first:
+      213: 6923404754199434836
+    second: digduglvl1_190
+  - first:
+      213: -7486543619850054328
+    second: digduglvl1_191
+  - first:
+      213: -3315886399621682431
+    second: digduglvl1_192
+  - first:
+      213: -2396299581436927985
+    second: digduglvl1_193
+  - first:
+      213: -5013061812463337089
+    second: digduglvl1_194
+  - first:
+      213: -5599560289355819319
+    second: digduglvl1_195
+  - first:
+      213: -4910134224700419906
+    second: digduglvl1_196
+  - first:
+      213: 2577431458707656714
+    second: digduglvl1_197
+  - first:
+      213: 3065749304839711658
+    second: digduglvl1_198
+  - first:
+      213: 7109743863022715475
+    second: digduglvl1_199
+  - first:
+      213: -844084397470856893
+    second: digduglvl1_200
+  - first:
+      213: 935438286468622728
+    second: digduglvl1_201
+  - first:
+      213: -629716855294394370
+    second: digduglvl1_202
+  - first:
+      213: 7829393957580077158
+    second: digduglvl1_203
+  - first:
+      213: -1949207054881795044
+    second: digduglvl1_204
+  - first:
+      213: -7981890304342754058
+    second: digduglvl1_205
+  - first:
+      213: 3120741051520529758
+    second: digduglvl1_206
+  - first:
+      213: -5783767120216975366
+    second: digduglvl1_207
+  - first:
+      213: 4958010944999798313
+    second: digduglvl1_208
+  - first:
+      213: -1164100107107321785
+    second: digduglvl1_209
+  - first:
+      213: 2358945539225154538
+    second: digduglvl1_210
+  - first:
+      213: -8957051427778657613
+    second: digduglvl1_211
+  - first:
+      213: -3335040278923279783
+    second: digduglvl1_212
+  - first:
+      213: 2887099486093458123
+    second: digduglvl1_213
+  - first:
+      213: -5280420835391821225
+    second: digduglvl1_214
+  - first:
+      213: 5036177244060661795
+    second: digduglvl1_215
+  - first:
+      213: -8195237579217584869
+    second: digduglvl1_216
+  - first:
+      213: -3937626162792336526
+    second: digduglvl1_217
+  - first:
+      213: 6604263992076916239
+    second: digduglvl1_218
+  - first:
+      213: 6901860508807849656
+    second: digduglvl1_219
+  - first:
+      213: 1129408419996162923
+    second: digduglvl1_220
+  - first:
+      213: -3474561345489968200
+    second: digduglvl1_221
+  - first:
+      213: 2316000554735320814
+    second: digduglvl1_222
+  - first:
+      213: -3503354785916071718
+    second: digduglvl1_223
+  - first:
+      213: 7371402785667704621
+    second: digduglvl1_224
+  - first:
+      213: -2589199419596217223
+    second: digduglvl1_225
+  - first:
+      213: -1237709511756881106
+    second: digduglvl1_226
+  - first:
+      213: -8708562506814615367
+    second: digduglvl1_227
+  - first:
+      213: 6933957175529935126
+    second: digduglvl1_228
+  - first:
+      213: 6322731489372259170
+    second: digduglvl1_229
+  - first:
+      213: 1357821146825368238
+    second: digduglvl1_230
+  - first:
+      213: 3428746539905483523
+    second: digduglvl1_231
+  - first:
+      213: 1868391102233142797
+    second: digduglvl1_232
+  - first:
+      213: 4195611281914380947
+    second: digduglvl1_233
+  - first:
+      213: 5636025367822234291
+    second: digduglvl1_234
+  - first:
+      213: -579650059150125682
+    second: digduglvl1_235
+  - first:
+      213: 868694454109117805
+    second: digduglvl1_236
+  - first:
+      213: -8735348600814569916
+    second: digduglvl1_237
+  - first:
+      213: -920153385050757032
+    second: digduglvl1_238
+  - first:
+      213: -7852327687466477462
+    second: digduglvl1_239
+  - first:
+      213: 4070407538736025017
+    second: digduglvl1_240
+  - first:
+      213: -7478165684727790430
+    second: digduglvl1_241
+  - first:
+      213: 1013166513015782894
+    second: digduglvl1_242
+  - first:
+      213: 2570601665391269173
+    second: digduglvl1_243
+  - first:
+      213: -8031138670373515699
+    second: digduglvl1_244
+  - first:
+      213: 6813905181570165211
+    second: digduglvl1_245
+  - first:
+      213: 6976592092583481628
+    second: digduglvl1_246
+  - first:
+      213: 4643802492010502086
+    second: digduglvl1_247
+  - first:
+      213: -611138066028691104
+    second: digduglvl1_248
+  - first:
+      213: 2637280708337408897
+    second: digduglvl1_249
+  - first:
+      213: -2688846556940076502
+    second: digduglvl1_250
+  - first:
+      213: 7200821986369853784
+    second: digduglvl1_251
+  - first:
+      213: -3354586826443025587
+    second: digduglvl1_252
+  - first:
+      213: -4504377801694266517
+    second: digduglvl1_253
+  - first:
+      213: 6212307725533777711
+    second: digduglvl1_254
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: digduglvl1_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 320
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6cd66f109e58d20800000000000000
+      internalID: 3280284098247902944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40fdfed50069f2a0800000000000000
+      internalID: -6703220992031985585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 280
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140ce67f19853a390800000000000000
+      internalID: -7808299944985575359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 260
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e4a612178b92c60800000000000000
+      internalID: 7793963426172784128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 260
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54a0ba4d8a235830800000000000000
+      internalID: 4058634475522794590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 239
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3997ca8f9245810800000000000000
+      internalID: 1753072302976242621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_70
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594019f6c19d6e800800000000000000
+      internalID: 641438713100960917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_71
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 240
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916d65bb0d2645450800000000000000
+      internalID: 6076590445865391641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b7dfe412c82de00800000000000000
+      internalID: 1068070136327273299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 200
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4db71afbb279390800000000000000
+      internalID: -7811726926602840842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_97
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 197
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939061716a1d3c460800000000000000
+      internalID: 7260877535533467961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 180
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c218d29207bb06280800000000000000
+      internalID: -9052029160613117652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7847418172d3ec6b0800000000000000
+      internalID: -5274210875487259513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c0bda879629240800000000000000
+      internalID: 4797012520134034893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_143
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eac7c64e4609e200800000000000000
+      internalID: 209705790914153186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_175
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 99
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a478daeb2dfa6100800000000000000
+      internalID: 102172306634732713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_182
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 80
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a0f9865c842ba70800000000000000
+      internalID: 8841209031182715523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_184
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b24b1337f495ab0800000000000000
+      internalID: -5018892953553982573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_186
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47098c71af7e7340800000000000000
+      internalID: 4863464979162531660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_187
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 80
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37af6df186c9e8f70800000000000000
+      internalID: 9191455860534475379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_190
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 79
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456de4231ffd41060800000000000000
+      internalID: 6923404754199434836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_220
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 39
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bd43069f67caf00800000000000000
+      internalID: 1129408419996162923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_229
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 20
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263c5325acadeb750800000000000000
+      internalID: 6322731489372259170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digduglvl1_235
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 21
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e859252a75ba4f7f0800000000000000
+      internalID: -579650059150125682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
